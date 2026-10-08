@@ -1,0 +1,105 @@
+{
+  "kind": "landing",
+  "slug": "arundel-taxi",
+  "path": "/arundel-taxi/",
+  "city": "Arundel",
+  "isAirport": false,
+  "seo": {
+    "title": "Arundel Taxi | Airport Direct Taxi Service In Arundel",
+    "description": "Arundel Taxis provides you taxi service all over the Sussex area 24/7 with all types of cars. We are the cheap fare Arundel taxis service Book your taxis online."
+  },
+  "modified": "2025-09-16T14:03:18",
+  "hero": {
+    "h1": "Western Cars & Taxis Arundel",
+    "h2": "Arundel Taxi Hire",
+    "backgrounds": [
+      "Western-Cards-Mercedes.jpg",
+      "Crawley-Station-Header.jpg",
+      "Three-Bridges-Station-Slider.jpg"
+    ]
+  },
+  "welcome": {
+    "h2": "Welcome to Western Cars & Taxis Arundel",
+    "tagline": "Arundel Taxi Hire"
+  },
+  "rows": [
+    {
+      "wide": true,
+      "cols": [
+        [
+          {
+            "type": "html",
+            "html": "<p>Are you looking for professional, efficient, and convenient taxi services in Arundel? We’ve got everything you need for local journeys, <a href=\"/our-services/\">airport transfers</a>, and executive trips. From cars to larger vehicles, we’re available around the clock to get you where you need to go—whether it’s to the airport, a nearby town, or a comfortable drive around Arundel.</p>\n<p><strong>Our Services</strong></p>\n<h2>Local Taxi Services in Arundel</h2>\n<p>If you’re searching for a “taxi near me” in Arundel, our reliable taxi service is available 24/7 to ensure smooth and comfortable journeys. Our drivers know the area well and take the quickest routes to get you to your destination.</p>\n<h2>Airport Direct Taxi Service</h2>\n<p>Operating from Arundel, we offer direct airport taxi services for stress-free transfers to major airports, including <a href=\"/gatwick-taxi/\">Gatwick</a>, <a href=\"/heathrow-taxi/\">Heathrow</a>, and others. Our service ensures timely pick-ups, ample luggage space, and you’ll never be late for your flight.</p>\n<h2>Arundel Female Taxi Service</h2>\n<p>We understand that some customers may prefer a female driver for added comfort. Our female taxi service in Arundel provides professional, courteous female drivers for local journeys, airport transfers, and longer trips.</p>"
+          }
+        ],
+        [
+          {
+            "type": "image",
+            "file": "Taxi-Image.jpg",
+            "alt": "",
+            "title": "Taxi Image",
+            "shadow": true
+          }
+        ]
+      ]
+    },
+    {
+      "wide": false,
+      "cols": [
+        [
+          {
+            "type": "html",
+            "html": "<h2>Luxury Taxi Service</h2>\n<p>Our luxury taxis in Arundel cater to those seeking premium service. Whether it’s a business trip or a special occasion, our VIP and luxury cars offer comfort, style, and outstanding service.</p>\n<h2>Affordable Airport Taxi Services</h2>\n<p>We provide affordable taxis from Arundel to the airport without compromising on quality. Perfect for budget-conscious travelers, our cheap airport taxis ensure reliable service at an economical price.</p>\n<h2>24-Hour Taxi Service</h2>\n<p>Need a ride anytime? Our 24-hour taxi service in Arundel operates day and night, ready for early morning airport transfers or late-night pick-ups. Count on us to be there whenever you need us.</p>\n<h2>Taxi Arundel to Crawley</h2>\n<p>Need a taxi from Arundel to <a href=\"/\">Crawley</a>? We offer fast, comfortable, and affordable services for commuters between the two towns. Our drivers ensure a smooth ride, whether for work, leisure, or travel connections. As a customer focussed company, we want to ensure that all our customers are fully satisfied with the service they receive and take on board any suggestions.</p>\n<p>So go on please <a href=\"https://book.icabbidispatch.com/b9f04b22390a5018054c430ef23b609bbb842f6a/public/login\" target=\"_blank\" rel=\"noopener noreferrer\">book</a> with us and give us a chance to show you why Western Car’s has grown from strength to strength over the past 7 years.</p>"
+          }
+        ],
+        [
+          {
+            "type": "html",
+            "html": "<p>At Airport Direct Taxi Service we are not only a taxi service but a family that delivers the safest, most comfortable, and memorable trip for you.</p>\n<p>As a female-led taxi company in Arundel, we will strive to bring you the best luxury and VIP car with a special touch that understands your traveling needs: be it an airport run in the middle of the night, or an occasion to give you the best in our premium taxis. All you need to do is call us and we will deliver.</p>\n<p>We are truly proud of the trust our community invests on us every single day.</p>\n<p>We work hard to have you satisfied, that’s why we get in our taxis every day, ready to deliver to you 24 hours a day a ride service you can rely on.</p>\n<p>Whether you going for a night out and you need to celebrate in the best way possible with one of our luxury cars,</p>\n<p>or you need a budget taxis without compromising quality and safety, we are here for you, providing the most reliable taxi service Arundel has ever seen.</p>\n<p>We are proud to serve our community, thank you for letting us be part of your day, we can’t wait to drive many miles with you.</p>"
+          }
+        ]
+      ]
+    }
+  ],
+  "areas": {
+    "heading": "Areas We Cover",
+    "level": "h3",
+    "separateSection": false,
+    "columns": [
+      [
+        "Crawley",
+        "East Grinstead",
+        "Burgess Hill",
+        "Haywards Heath",
+        "Hassocks",
+        "Ardingly",
+        "Henfield",
+        "London City",
+        "Luton"
+      ],
+      [
+        "Steyning",
+        "Worthing",
+        "Horsham",
+        "Copthorne",
+        "Southwater",
+        "Billingshurst",
+        "Arundel",
+        "Southend",
+        "Biggin Hill"
+      ],
+      [
+        "Petworth",
+        "Midhurst",
+        "Littlehampton",
+        "Bognor Regis",
+        "Horley",
+        "Gatwick",
+        "Heathrow",
+        "Stansted",
+        "Chichester"
+      ]
+    ],
+    "keywords": "Arundel to heathrow airport taxi, heathrow airport to Arundel airport taxi, Southend airport to Arundel airport taxi, Arundel to Biggin Hill airport taxi, Biggin Hill airport to Arundel airport taxi, Arundel to London City airport taxi, London City airport to Arundel airport taxi,Arundel to Stansted airport taxi, Stansted airport to Arundel airport taxi,Arundel to Luton airport taxi, Luton airport to Arundel airport taxi,Arundel to burgess hill taxi, Arundel to crawley taxi, Arundel to Haywards Heath taxi, Arundel to Ardingly taxi, Arundel to Henfield taxi, Arundel to Steyning taxi, Arundel to Worthing taxi, Arundel to Horsham taxi, Arundel to Southwater taxi, Arundel to Billingshurst taxi, Arundel to Lewes taxi, Arundel to Petworth taxi, Arundel to Midhurst taxi, Arundel to Littlehampton taxi, Arundel to Bognor Regis taxi, Arundel to Horley taxi, chichester to Arundel taxi, Arundel to Hassocks taxi, East Grinstead to Arundel taxi"
+  }
+}

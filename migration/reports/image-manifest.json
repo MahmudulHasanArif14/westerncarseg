@@ -1,0 +1,201 @@
+{
+  "manifest": [
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/247-Taxi-Service.png",
+      "file": "247-Taxi-Service.png",
+      "ok": true,
+      "bytes": 4225,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Airport-Transfer-Pickup-Taxi.jpg",
+      "file": "Airport-Transfer-Pickup-Taxi.jpg",
+      "ok": true,
+      "bytes": 28224,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Business-Accounts.jpg",
+      "file": "Business-Accounts.jpg",
+      "ok": true,
+      "bytes": 72454,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Button-Background.jpg",
+      "file": "Button-Background.jpg",
+      "ok": true,
+      "bytes": 46274,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Chauffering-Hire.jpg",
+      "file": "Chauffering-Hire.jpg",
+      "ok": true,
+      "bytes": 129603,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Contact-Us.jpg",
+      "file": "Contact-Us.jpg",
+      "ok": true,
+      "bytes": 92844,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Phone-App-Background.jpg",
+      "file": "Phone-App-Background.jpg",
+      "ok": true,
+      "bytes": 1875352,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Services.png",
+      "file": "Services.png",
+      "ok": true,
+      "bytes": 1688,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Taxi-Image.jpg",
+      "file": "Taxi-Image.jpg",
+      "ok": true,
+      "bytes": 39109,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/VIP-Taxi-Service.jpg",
+      "file": "VIP-Taxi-Service.jpg",
+      "ok": true,
+      "bytes": 90627,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Wester-Cars-Page-Header.jpg",
+      "file": "Wester-Cars-Page-Header.jpg",
+      "ok": true,
+      "bytes": 199922,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cards-Mercedes.jpg",
+      "file": "Western-Cards-Mercedes.jpg",
+      "ok": true,
+      "bytes": 229462,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-AppStore-App.png",
+      "file": "Western-Cars-AppStore-App.png",
+      "ok": true,
+      "bytes": 12334,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-Google-Play-App.png",
+      "file": "Western-Cars-Google-Play-App.png",
+      "ok": true,
+      "bytes": 13623,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-Mobile-App.png",
+      "file": "Western-Cars-Mobile-App.png",
+      "ok": true,
+      "bytes": 298121,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-Taxi-Logo-No-URL.png",
+      "file": "Western-Cars-Taxi-Logo-No-URL.png",
+      "ok": true,
+      "bytes": 16503,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/Why-Choose-Us.png",
+      "file": "Why-Choose-Us.png",
+      "ok": true,
+      "bytes": 2116,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/01/cropped-Western-Cars-Favicon.png",
+      "file": "cropped-Western-Cars-Favicon.png",
+      "ok": true,
+      "bytes": 34836,
+      "type": "image/png"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/03/About-Western-Cars-Taxi-Gatwick.jpg",
+      "file": "About-Western-Cars-Taxi-Gatwick.jpg",
+      "ok": true,
+      "bytes": 67853,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/03/Crawley-Station-Header.jpg",
+      "file": "Crawley-Station-Header.jpg",
+      "ok": true,
+      "bytes": 330388,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/03/Three-Bridges-Station-Slider.jpg",
+      "file": "Three-Bridges-Station-Slider.jpg",
+      "ok": true,
+      "bytes": 257744,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2021/03/Western-Cars-Crawley-Taxi-Service.jpg",
+      "file": "Western-Cars-Crawley-Taxi-Service.jpg",
+      "ok": true,
+      "bytes": 157267,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Biggin-Hill.jpg",
+      "file": "Airport-Taxi-Biggin-Hill.jpg",
+      "ok": true,
+      "bytes": 39109,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-London-City.jpg",
+      "file": "Airport-Taxi-London-City.jpg",
+      "ok": true,
+      "bytes": 39109,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Luton.jpg",
+      "file": "Airport-Taxi-Luton.jpg",
+      "ok": true,
+      "bytes": 39109,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Southend.jpg",
+      "file": "Airport-Taxi-Southend.jpg",
+      "ok": true,
+      "bytes": 39109,
+      "type": "image/jpeg"
+    }
+  ],
+  "skippedResizedVariants": [
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/cropped-Western-Cars-Favicon-32x32.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/cropped-Western-Cars-Favicon-192x192.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/cropped-Western-Cars-Favicon-180x180.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/cropped-Western-Cars-Favicon-270x270.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-Taxi-Logo-No-URL-300x177.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/Western-Cars-Mobile-App-221x300.png",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/Taxi-Image-480x481.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2021/01/Chauffering-Hire-480x480.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2021/03/About-Western-Cars-Taxi-Gatwick-480x480.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Biggin-Hill-480x481.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-London-City-480x481.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Luton-480x481.jpg",
+    "https://westerncars.co.uk/wp-content/uploads/2025/09/Airport-Taxi-Southend-480x481.jpg"
+  ]
+}

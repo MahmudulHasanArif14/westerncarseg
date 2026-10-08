@@ -1,0 +1,28 @@
+{
+  "name": "western-cars-crawley",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Western Cars Crawley — Next.js migration of westerncars.co.uk",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "content": "node migration/scripts/build-content.mjs",
+    "audit:links": "node migration/scripts/audit-new-site.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.4.0",
+    "typescript": "^5.9.0"
+  }
+}

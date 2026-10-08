@@ -1,0 +1,30 @@
+# Western Cars Crawley
+
+> Western Cars is a private hire taxi company based in Crawley, West Sussex, United Kingdom (Western Cars Private Hire Limited, registered in England & Wales, company number 09243357). It provides local taxis, airport transfers, group transport, chauffeur service on request and business accounts across East and West Sussex, 24 hours a day, 7 days a week.
+
+## Key facts
+- Address: 198 Haslett Avenue, Three Bridges, Crawley, RH10 1LY
+- Telephone: 01293 300000 (+44 1293 300000)
+- Email: info@westerncars.co.uk
+- Hours: 24 hours a day, 7 days a week
+- Established: 2007
+- Booking: online at https://westerncars.webbooker.icabbi.com/, by phone, text, email, or the free Western Cars iPhone/Android app
+
+## Main pages
+- [Home — Crawley taxi hire](https://westerncars.co.uk/): overview of the service, FAQs and areas covered
+- [Our Services](https://westerncars.co.uk/our-services/): airport transfers, private taxi hire, groups, VIP service, business accounts
+- [About Us](https://westerncars.co.uk/about-us/): company background and quick facts
+- [Contact Us](https://westerncars.co.uk/contact-us/): contact form, address, phone and email
+- [Terms & Conditions](https://westerncars.co.uk/terms-conditions/): booking, cancellation and carriage terms
+
+## Airports served
+- [Gatwick](https://westerncars.co.uk/gatwick-taxi/)
+- [Heathrow](https://westerncars.co.uk/heathrow-taxi/)
+- [Stansted](https://westerncars.co.uk/stansted-taxi/)
+- [Luton](https://westerncars.co.uk/airport-taxi-luton/)
+- [London City](https://westerncars.co.uk/airport-taxi-london-city/)
+- [Southend](https://westerncars.co.uk/airport-taxi-southend/)
+- [Biggin Hill](https://westerncars.co.uk/airport-taxi-biggin-hill/)
+
+## Towns served
+East Grinstead, Burgess Hill, Haywards Heath, Hassocks, Ardingly, Henfield, Lewes, Steyning, Worthing, Horsham, Copthorne, Southwater, Billingshurst, Arundel, Chichester, Petworth, Midhurst, Littlehampton, Bognor Regis and Horley — each has a page at https://westerncars.co.uk/<town>-taxi/ (East Grinstead and Burgess Hill use /taxi-service-in-<town>/). The full list with links is under "Areas We Cover" on the home page.
